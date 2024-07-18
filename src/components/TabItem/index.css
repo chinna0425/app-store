@@ -1,0 +1,23 @@
+.button {
+  background-color: transparent;
+  color: #7b8794;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-bottom: 0px;
+  padding: 10px;
+  border-bottom: 3px #dfe2e5 solid;
+}
+.button1 {
+  background-color: transparent;
+  color: #2563eb;
+  border-width: 0px;
+  border-bottom: 3px #2563eb solid;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  padding: 10px;
+  margin-bottom: 0px;
+  margin-right: 15px;
+}
